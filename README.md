@@ -2,6 +2,7 @@
 👀 I’m interested in programming
 
 👨‍💻 Programming Languages
+https://typescriptlang.org/
 
 🖥️ Frontend
 
