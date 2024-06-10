@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mehrdod
-- 👀 I’m interested in programming
+👋 Hi, I’m Mehrdod
+👀 I’m interested in programming
 
 👨‍💻 Programming Languages
 
@@ -8,5 +8,6 @@
 🔧 Tools
 
 📬 Contacts
+
 📧 Email: itkoromuz@gmail.com
 💬 Telegram: @MirovM
