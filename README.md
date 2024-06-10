@@ -13,5 +13,6 @@ ________________________________________________________________________________
 👨‍💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,ts,js" />
   </a>
 </p>
